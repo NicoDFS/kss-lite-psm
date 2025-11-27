@@ -1,0 +1,6 @@
+[submodule "lib/kss-test"]
+	path = lib/kss-test
+	url = https://github.com/Kalycoinproject/kss-test
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
